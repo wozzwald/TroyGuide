@@ -1,0 +1,136 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: sans-serif;
+  }
+
+  nav {
+    background: #ffd6cf;
+    height: 80px;
+    width: 100%;
+  }
+
+  .title {
+    color: rgb(51, 14, 37);
+    font-size: 25px;
+    line-height: 80px;
+    font-weight: bold;
+    padding-left: 300px;
+  }
+
+  #logo{
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  nav ul {
+    float: right;
+    margin-right: 20px;
+  }
+  nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+
+  nav ul li a {
+    background-color: white;
+    font-size: 14px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    color: rgb(58, 12, 24);
+    font-weight: 550;
+  }
+
+  a.active,
+  a:hover {
+    background: #ffa7a7;
+    transition: .5s;
+  }
+
+  #footer{
+    display: flex;
+    background-color: #a3a3a3;
+    flex-direction: row;
+    justify-content: center;
+    font-size: small;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-bottom: 25px;
+    bottom: 0;
+  }
+
+.footerTitle{
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 30px;
+}
+
+.footerContent{
+    padding-left: 30px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+#rectangleFlex {
+    display: flex;
+    background-color: #eab7b7;
+    flex-direction: column;  
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%; 
+    font-family: sans-serif;
+}
+
+.rectangleContent {
+    padding-top: 100px;
+    padding-left: 400px;
+    padding-bottom: 100px;
+    margin: 10px;
+}
+
+#dining.active,
+#dining:hover {
+  background: url(grey.png);
+}
+
+#dining{
+    background: url(dining.png);
+    font-size: 40px;
+    color: #fffcfc;
+    background-size: cover;
+}
+
+#entertainment.active,
+#entertainment:hover {
+  background: url(../resources-cssfiles/grey.png);
+}
+
+#entertainment{
+    background: url(entertainment.png);
+    font-size: 40px;
+    color: #fffcfc;
+    background-size: cover;
+}
+
+#lodging.active,
+#lodging:hover {
+  background: url(grey.png);
+}
+
+#lodging{
+    background: url(lodging.png);
+    font-size: 40px;
+    color: #fffcfc;
+    background-size: cover;
+}
+
+body{
+  background-color: #a3a3a3;
+}

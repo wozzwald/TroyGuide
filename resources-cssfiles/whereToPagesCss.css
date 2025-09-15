@@ -1,0 +1,189 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: sans-serif;
+    height:100%;
+    width:100%;
+  }
+
+  nav {
+    background: #ffd6cf;
+    height: 80px;
+    width: 100%;
+  }
+
+  .title {
+    color: rgb(51, 14, 37);
+    font-size: 25px;
+    line-height: 80px;
+    font-weight: bold;
+    padding-left: 300px;
+  }
+
+  #logo{
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  nav ul {
+    float: right;
+    margin-right: 20px;
+  }
+  nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+
+  nav ul li a {
+    background-color: white;
+    font-size: 14px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    color: rgb(58, 12, 24);
+    font-weight: 550;
+  }
+
+  a.active,
+  a:hover {
+    background: #ffa7a7;
+    transition: .5s;
+  }
+
+  #footer{
+    display: flex;
+    background-color: #a3a3a3;
+    flex-direction: row;
+    justify-content: center;
+    font-size: small;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-bottom: 25px;
+    bottom: 0;
+  }
+
+.footerTitle{
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 30px;
+}
+
+.footerContent{
+    
+    padding-left: 30px;
+    padding-bottom: 10px;
+    color:black;
+}
+
+#pageContent{
+  display:flex;
+  height:49em;
+  width:100%;
+}
+
+#filter{
+  display:flex;
+  height:100%;
+  width:15%;
+  flex-direction: column;
+  background-color: #b9b9b9;
+  justify-items: center;
+  align-items: center;
+}
+
+#filter #filterContent{
+  display:flex;
+  flex-direction: column;
+  height:92%;
+  width:92%;
+  background-color: #ffefefe5;
+  border: solid 2px #181717e1;
+  padding: 10px;
+  border-radius: 25px;
+  align-items: center;
+  justify-items: center;
+}
+
+#filter .filterPart{
+  margin-top:25px;
+  height: 10%;
+  width:100%;
+  align-items: center;
+  justify-items: center;
+}
+
+#filter .filterCheck{
+  margin-left:4px;
+  margin-right:4px;
+  height:1.2em;
+  width:1.2em;
+}
+
+
+label{
+  font-size: 1.1em;
+}
+
+#filter h2{
+  text-align: center;
+}
+
+#filter p{
+  font-size: 1.25em;
+}
+
+#dataContainer{
+  display:flex;
+  height:100%;
+  width:85%;
+  flex-direction: column;
+  overflow:auto;
+}
+
+.dataBox{
+  display:flex;
+  flex-direction: column;
+  min-height: 20%;
+  height:auto;
+  width:99.25%;
+  padding:5px;
+  margin:5px;
+  border:solid 2px #000000;
+  background-color:#ffefefe5;
+}
+
+.dataBox div{
+  display:flex;
+  
+}
+
+.dataBox ul li{
+  margin-top:8px;
+}
+
+.fa-star{
+  margin-top:5px;
+  margin-left:8px;
+}
+
+.checked {
+  color:orange;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+#filter{
+  padding-top: 10px;
+}
+
+body{
+  background-color: #a3a3a3;
+}

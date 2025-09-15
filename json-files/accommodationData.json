@@ -1,0 +1,84 @@
+{
+  "accommodations": [
+    {
+      "name": "Hilton Garden Inn Troy",
+      "type": "Hotel",
+      "address": "235 Hoosick St, Troy, NY 12180",
+      "rating": 4.4,
+      "website": "http://www.hilton.com/en/hotels/albtygi-hilton-garden-inn-troy/",
+      "description": "A modern hotel featuring comfortable rooms, a fitness center, and an on-site restaurant. Ideal for both business and leisure travelers."
+    },
+    {
+      "name": "Courtyard by Marriott Troy",
+      "type": "Hotel",
+      "address": "8 4th St, Troy, NY 12180",
+      "rating": 4.3,
+      "website": "http://www.marriott.com/hotels/travel/albcy-courtyard-troy/",
+      "description": "Offers spacious rooms, a bistro serving breakfast and dinner, and a cozy lobby for relaxation. Conveniently located near downtown attractions."
+    },
+    {
+      "name": "Troy Inn",
+      "type": "Inn",
+      "address": "100 3rd St, Troy, NY 12180",
+      "rating": 3.8,
+      "website": "http://www.troyinn.com",
+      "description": "A budget-friendly option providing basic amenities and a homey atmosphere. Perfect for travelers looking for simplicity and convenience."
+    },
+    {
+      "name": "The Mark of Troy",
+      "type": "Hotel",
+      "address": "1650 5th Ave, Troy, NY 12180",
+      "rating": 4.1,
+      "website": "http://www.themarkoftroy.com",
+      "description": "An upscale hotel featuring stylish rooms and a beautiful outdoor space. Ideal for both families and business travelers."
+    },
+    {
+      "name": "Hampton Inn & Suites",
+      "type": "Hotel",
+      "address": "620 2nd Ave, Troy, NY 12182",
+      "rating": 4.5,
+      "website": "http://www.hilton.com/en/hotels/albtyhx-hampton-suites-troy/",
+      "description": "Offers comfortable rooms, complimentary breakfast, and a convenient location for exploring Troy's historic sites."
+    },
+    {
+      "name": "Best Western Plus Franklin Square Inn",
+      "type": "Hotel",
+      "address": "550 Columbia St, Troy, NY 12180",
+      "rating": 4.2,
+      "website": "http://www.bestwestern.com/en_US/book/hotel-details.33146.html",
+      "description": "Located near downtown, this hotel features a restaurant, fitness center, and a complimentary shuttle service."
+    },
+    {
+      "name": "The Berlin Inn",
+      "type": "BnB",
+      "address": "65 Main St, Berlin, NY 12022",
+      "rating": 4.6,
+      "website": "http://www.berlininn.com",
+      "description": "A charming B&B that offers a cozy stay with personalized service, home-cooked breakfasts, and easy access to outdoor activities."
+    },
+    {
+      "name": "Lakeview Campground",
+      "type": "Campground",
+      "address": "123 Campground Rd, Troy, NY 12180",
+      "rating": 4.4,
+      "website": "http://www.lakeviewcampground.com",
+      "description": "A family-friendly campground situated by a serene lake, offering tent and RV sites, hiking trails, and recreational activities."
+    },
+    {
+      "name": "The Olde Judge Mansion",
+      "type": "BnB",
+      "address": "218 2nd St, Troy, NY 12180",
+      "rating": 4.8,
+      "website": "http://www.oldejudgemansion.com",
+      "description": "A historic B&B that features beautifully decorated rooms, gourmet breakfasts, and a lovely garden for guests to enjoy."
+    },
+    {
+      "name": "Quiet Cove Riverfront Campground",
+      "type": "Campground",
+      "address": "200 River Rd, Troy, NY 12180",
+      "rating": 4.5,
+      "website": "http://www.quietcoveriverfront.com",
+      "description": "Nestled along the river, this campground provides scenic views, fishing opportunities, and a relaxing atmosphere for nature lovers."
+    }
+  ]
+}

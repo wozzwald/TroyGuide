@@ -1,0 +1,144 @@
+{
+  "restaurants": [
+    {
+      "name": "Dinosaur Bar-B-Que",
+      "type": "barbeque",
+      "address": "377 River St, Troy, NY 12180",
+      "contact": "(518) 308-0400",
+      "website": "https://www.dinosaurbarbque.com",
+      "hours": "11:00 AM - 10:00 PM",
+      "closes": 22,
+      "rating": 4.5
+    },
+    {
+      "name": "De Fazio's Pizzeria",
+      "type": "italian",
+      "address": "266 4th St, Troy, NY 12180",
+      "contact": "(518) 271-1111",
+      "website": "https://www.defaziospizza.com",
+      "hours": "11:00 AM - 9:00 PM",
+      "closes": 21,
+      "rating": 4.3
+    },
+    {
+      "name": "The Ruck",
+      "type": "bar",
+      "address": "104 3rd St, Troy, NY 12180",
+      "contact": "(518) 273-1872",
+      "website": "http://www.getrucked.com",
+      "hours": "12:00 PM - 12:00 AM",
+      "closes": 24,
+      "rating": 4.5
+    },
+    {
+      "name": "Sunhee's Farm and Kitchen",
+      "type": "asian",
+      "address": "95-97 Ferry St, Troy, NY 12180",
+      "contact": "(518) 272-3413",
+      "website": "https://www.sunhees.com",
+      "hours": "11:00 AM - 8:00 PM",
+      "closes": 20,
+      "rating": 4.8
+    },
+    {
+      "name": "Alexis Diner",
+      "type": "diner",
+      "address": "294 N Greenbush Rd, Troy, NY 12180",
+      "contact": "(518) 286-2603",
+      "website": "https://www.alexisdiner.com",
+      "hours": "7:00 AM - 9:00 PM",
+      "closes": 21,
+      "rating": 4.2
+    },
+    {
+      "name": "Lo Porto Ristorante Caffe",
+      "type": "italian",
+      "address": "85 4th St, Troy, NY 12180",
+      "contact": "(518) 273-8546",
+      "website": "http://www.loportostroy.com",
+      "hours": "5:00 PM - 9:00 PM",
+      "closes": 21,
+      "rating": 4.4
+    },
+    {
+      "name": "Plum Blossom",
+      "type": "asian",
+      "address": "675 Hoosick Rd, Troy, NY 12180",
+      "contact": "(518) 272-2232",
+      "website": "https://www.plumblossomrestaurant.com",
+      "hours": "11:30 AM - 9:30 PM",
+      "closes": 21,
+      "rating": 4.3
+    },
+    {
+      "name": "Junior's Bar and Grill",
+      "type": "bar",
+      "address": "48 3rd St, Troy, NY 12180",
+      "contact": "(518) 326-8123",
+      "website": "https://www.juniorsbarandgrill.com",
+      "hours": "4:00 PM - 12:00 AM",
+      "closes": 24,
+      "rating": 4.2
+    },
+    {
+      "name": "Donna's Italian Restaurant",
+      "type": "italian",
+      "address": "1 4th St, Troy, NY 12180",
+      "contact": "+1 518-274-0247",
+      "website": "N/A",
+      "hours": "11:00 AM - 9:00 PM",
+      "closes": 21,
+      "rating": 4.0
+    },
+    {
+      "name": "The Whistling Kettle",
+      "type": "bar",
+      "address": "254 Broadway, Troy, NY 12180",
+      "contact": "+1 518-874-1938",
+      "website": "N/A",
+      "hours": "10:00 AM - 8:00 PM",
+      "closes": 20,
+      "rating": 4.5
+    },
+    {
+      "name": "Duncan's Dairy Bar",
+      "type": "diner",
+      "address": "890 5th Ave, Troy, NY 12182",
+      "contact": "+1 518-235-0080",
+      "website": "N/A",
+      "hours": "6:00 AM - 2:00 PM",
+      "closes": 14,
+      "rating": 3.9
+    },
+    {
+      "name": "Shooter's Bar & Grill",
+      "type": "bar",
+      "address": "2113 NY-7, Troy, NY 12180",
+      "contact": "(518) 274-4633",
+      "website": "N/A",
+      "hours": "12:00 PM - 12:00 AM",
+      "closes": 24,
+      "rating": 3.8
+    },
+    {
+      "name": "First Choice Caribbean",
+      "type": "barbeque",
+      "address": "451 Fulton St, Troy, NY 12180",
+      "contact": "(518) 833-2215",
+      "website": "N/A",
+      "hours": "11:00 AM - 8:00 PM",
+      "closes": 20,
+      "rating": 3.8
+    },
+    {
+      "name": "Kennedy's Tavern",
+      "type": "bar",
+      "address": "112 Mill St, Troy, NY 12180",
+      "contact": "(518) 272-3461",
+      "website": "N/A",
+      "hours": "4:00 PM - 12:00 AM",
+      "closes": 24,
+      "rating": 3.9
+    }
+  ]
+}

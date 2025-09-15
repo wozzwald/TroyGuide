@@ -1,0 +1,114 @@
+{
+  "entertainment": [
+    {
+      "name": "Troy Waterfront Farmers Market",
+      "type": "market",
+      "address": "200 River St, Troy, NY 12180",
+      "rating": 4.7,
+      "website": "http://www.troymarket.org",
+      "description": "A vibrant farmers market featuring local produce, artisan goods, and live music every Saturday, perfect for a community outing.",
+      "hours": "Saturday: 9:00 AM - 2:00 PM",
+      "closes": 14
+    },
+    {
+      "name": "Rensselaer County Historical Society",
+      "type": "arts",
+      "address": "57 2nd St, Troy, NY 12180",
+      "rating": 4.4,
+      "website": "http://www.rchsonline.org",
+      "description": "Explore the rich history of Troy and Rensselaer County through engaging exhibits, artifacts, and special events.",
+      "hours": "Wednesday - Saturday: 12:00 PM - 5:00 PM",
+      "closes": 17
+    },
+    {
+      "name": "Troy Music Hall",
+      "type": "arts",
+      "address": "30 2nd St, Troy, NY 12180",
+      "rating": 4.6,
+      "website": "http://www.troymusichall.org",
+      "description": "A historic venue offering a diverse lineup of concerts and performances, known for its exceptional acoustics and intimate atmosphere.",
+      "hours": "Monday - Friday: 9:00 AM - 5:00 PM (Event-dependent)",
+      "closes": 17
+    },
+    {
+      "name": "The Sanctuary for Independent Media",
+      "type": "arts",
+      "address": "3361 6th Ave, Troy, NY 12180",
+      "rating": 4.5,
+      "website": "http://www.sanctuaryforindependentmedia.org",
+      "description": "An arts center dedicated to media arts and social justice, hosting film screenings, workshops, and live performances.",
+      "hours": "Tuesday - Friday: 12:00 PM - 8:00 PM (Event-dependent)",
+      "closes": 20
+    },
+    {
+      "name": "Prospect Park",
+      "type": "nature",
+      "address": "Troy, NY 12180",
+      "rating": 4.5,
+      "website": "http://www.troyparks.com",
+      "description": "A beautiful park featuring walking trails, picnic areas, and scenic views of the Hudson River, perfect for outdoor activities.",
+      "hours": "Daily: 6:00 AM - 9:00 PM",
+      "closes": 21
+    },
+    {
+      "name": "Joseph L. Bruno Stadium",
+      "type": "sports",
+      "address": "80 Vandenburgh Ave, Troy, NY 12180",
+      "rating": 4.2,
+      "website": "http://www.troytrojans.com",
+      "description": "Home of the Troy Trojans, this stadium offers a fun atmosphere for baseball games and other community events.",
+      "hours": "Event-dependent (Check schedule)",
+      "closes": 22
+    },
+    {
+      "name": "The Arts Center of the Capital Region",
+      "type": "arts",
+      "address": "265 River St, Troy, NY 12180",
+      "rating": 4.3,
+      "website": "http://www.artscenteronline.org",
+      "description": "A hub for visual arts, music, and theater, offering classes, exhibitions, and community events throughout the year.",
+      "hours": "Monday - Friday: 10:00 AM - 7:00 PM; Saturday: 10:00 AM - 5:00 PM",
+      "closes": 19
+    },
+    {
+      "name": "Screening Room at the Arts Center",
+      "type": "arts",
+      "address": "265 River St, Troy, NY 12180",
+      "rating": 4.4,
+      "website": "http://www.artscenteronline.org",
+      "description": "A small, independent cinema showcasing independent films, documentaries, and special screenings.",
+      "hours": "Event-dependent (Check schedule)",
+      "closes": 23
+    },
+    {
+      "name": "Troy City Music Hall",
+      "type": "arts",
+      "address": "30 2nd St, Troy, NY 12180",
+      "rating": 4.6,
+      "website": "http://www.troymusichall.org",
+      "description": "This historic hall hosts concerts, theater productions, and community events, known for its stunning architecture and acoustics.",
+      "hours": "Monday - Friday: 9:00 AM - 5:00 PM (Event-dependent)",
+      "closes": 17
+    },
+    {
+      "name": "The Hangar on the Hudson",
+      "type": "arts",
+      "address": "675 River St, Troy, NY 12180",
+      "rating": 4.5,
+      "website": "http://www.hangaronthehudson.com",
+      "description": "A lively venue hosting live music performances, events, and private gatherings, with a focus on local talent.",
+      "hours": "Event-dependent (Check schedule)",
+      "closes": 23
+    },
+    {
+      "name": "Brown's Brewing Company",
+      "type": "arts",
+      "address": "417 River St, Troy, NY 12180",
+      "rating": 4.3,
+      "website": "http://www.brownsbrewing.com",
+      "description": "A local brewery offering craft beers and live music performances, perfect for a relaxed evening out.",
+      "hours": "Sunday - Thursday: 12:00 PM - 11:00 PM; Friday - Saturday: 12:00 PM - 12:00 AM",
+      "closes": 24
+    }
+  ]
+}

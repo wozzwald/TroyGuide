@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../../javaScript-files/diningJS.js"></script>
+    <link rel = "shortcut icon" type = "x-icon" href = "../resources-cssfiles/webAppLogo.png">
+    <Link rel="stylesheet" href= "../../resources-cssfiles/whereToPagesCss.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Dining in Troy!</title>
+</head>
+<body>
+    <nav>
+        <!--This section is the navigation bar-->
+        <img id = "logo" src="../../resources-cssfiles/webAppLogo.png" alt="logo" width="65" height="60">
+        <lable class = "title">Dining in Troy!</lable>
+        <ul>
+            <li><a href = "../../index.html">Home</a></li>
+            <li><a href = "wheremain.html">Where to go? What to do?</a></li>
+            <li><a href = "../history pages/history.html">Troy through History</a></li>
+            <li><a href = "../RPI pages/rpi.html">RPI in Troy</a></li>
+        </ul>
+    </nav>
+    
+    <!--This is where we could put our filters/code in a flexbox-->
+    <!--This is where the page content is supposed to be-->
+    <div id = "pageContent">
+        <div id = "filter">
+            <h2>Filter:</h2>
+            <div id="filterContent">
+                <div class = "filterPart">
+                    <p>Minimum Rating:</p>
+                    <p id="ratingSliderVal"></p>
+                    <input type="range" min="0" max="5" value="0"id="ratingSlider" class="slider">
+                </div>
+            
+                <div class = "filterPart">
+                    <input type="checkbox" class="filterCheck" id="openLateCheck">
+                    <label for="openLateCheck"> Open Late (Past 8 PM)</label><br>
+                    <input type="checkbox" class="filterCheck" id="bbqCheck">
+                    <label for="bbqCheck"> Barbeque</label><br>
+                    <input type="checkbox" class="filterCheck" id="asianCheck">
+                    <label for="asianCheck"> Asian</label><br>
+                    <input type="checkbox" class="filterCheck" id="italyCheck">
+                    <label for="italyCheck"> Italian</label><br>
+                    <input type="checkbox" class="filterCheck" id="dinerCheck">
+                    <label for="dinerCheck"> Diner</label><br>
+                    <input type="checkbox" class="filterCheck" id="barCheck">
+                    <label for="barCheck"> Bar</label><br>
+                </div>
+            </div>
+        </div>
+
+        <div id = "dataContainer">
+            <!--The Information boxes for each restaurant get generated here-->
+        </div>
+    </div>
+
+    <div id="footer">
+        <!--This is where the footer is-->
+        <div class="footer-section">
+            <a href="wheremain.html"><h3 class = "footerTitle">Where to Go? What to do?</h3></a>
+            <ul>
+                <a href="dining.html"><li class = "footerContent">Dining</li></a>
+                <a href="entertainment.html"><li class = "footerContent">Entertainment</li></a>
+                <a href="lodging.html"><li class = "footerContent">Lodging</li></a>
+            </ul>
+        </div>
+
+        <div class="footer-section">
+            <a href="../history pages/history.html"><h3 class = "footerTitle">Troy through Decades</h3></a>
+            <ul>
+                <a href = "../history pages/1700.html"><li class = "footerContent">1700's</li></a>
+                <a href = "../history pages/1800.html"><li class = "footerContent">1800's</li></a>
+                <a href = "../history pages/1900.html"><li class = "footerContent">1900's</li></a>
+            </ul>
+        </div>
+
+        <div class="footer-section">
+            <a href="../RPI pages/rpi.html"><h3 class = "footerTitle">Rensselaer in Troy</h3></a>
+            <ul>
+                <a href = "../RPI pages/rpihistoric.html"><li class = "footerContent">History</li></a>
+                <a href = "../RPI pages/rpiecon.html"><li class = "footerContent">Economic Impact</li></a>
+                <a href = "../RPI pages/county.html"><li class = "footerContent">County</li></a>
+            </ul>
+        </div>
+
+        <div class="footer-section">
+            <a href = "../citations.html"><h3 class = "footerTitle footerContent">Citations</h3></a>
+        </div>
+    </div>
+
+</body>
+</html>
