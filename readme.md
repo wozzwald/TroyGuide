@@ -1,16 +1,17 @@
 # Explore Troy
 
 ## Background
-**Explore Troy** is a digital guide to :contentReference[oaicite:0]{index=0}, offering information about where to stay, eat, shop, local attractions, and the history of the city.  
+**Explore Troy** is a web guide to :contentReference[oaicite:0]{index=0}, where information about where to stay, eat, shop, points of interest, and the city's history can be found.
 
-It’s made for visitors and new residents who are unfamiliar with the area and want to explore what Troy has to offer.  
+It's created for visitors and new citizens who are not yet familiar with the area and would like to see what Troy has to offer.
 
-Unlike the official city government website, which mainly focuses on services and news, our site dives deeper into the city’s culture and history to create a more engaging experience.  
+Whereas the city government website is mostly about news and services, our website is more interested in history and culture to give it a richer flavor.
 
-This is especially important as Troy is growing quickly and more people are becoming interested in living in or visiting the area—especially with :contentReference[oaicite:1]{index=1} located in the city.
+This is especially needed since Troy is growing fast and individuals are becoming more interested in residing or visiting the area—especially with :contentReference[oaicite:1]{index=1} being inside the city.
 
 ## Objectives
-- Help users find places to stay, eat, shop, and visit in Troy  
-- Teach users about Troy’s history and culture  
-- Give newcomers an easy and fun way to explore the city  
-- Support local businesses by showing what they offer
+- Direct users to where to shop, eat, sleep, and go in Troy
+- Inform users about the history and culture of Troy
+- Give new individuals a fun and easy means of getting accustomed to the city
+- Encourage local business by marking what they can provide
+
