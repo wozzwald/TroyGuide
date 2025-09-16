@@ -1,7 +1,7 @@
 # Explore Troy
 
 ## Background
-**Explore Troy** is a web guide to :contentReference[oaicite:0]{index=0}, where information about where to stay, eat, shop, points of interest, and the city's history can be found.
+**Explore Troy** is a web guide to Troy, New York, where information about where to stay, eat, shop, points of interest, and the city's history can be found.
 
 It's created for visitors and new citizens who are not yet familiar with the area and would like to see what Troy has to offer.
 
